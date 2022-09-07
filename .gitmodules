@@ -1,0 +1,3 @@
+[submodule "Expense_Traker"]
+	path = Expense_Traker
+	url = https://github.com/yevasa93/Expense_Traker.git
